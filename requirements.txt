@@ -1,5 +1,5 @@
-fastapi==0.141.1
-uvicorn==0.52.4
-python-dotenv==1.2.3
-slowapi==0.1.10
+fastapi0.141.1
+uvicorn0.52.4
+python-dotenv1.2.3
+slowapi0.1.10
 httpx==0.27.2
